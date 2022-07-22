@@ -1,6 +1,6 @@
 # WeRateDog-Data-Analysis
 # Introduction
-WeRatedog was data Wrangling project.Data wrangling, which consisted of:
+WeRatedog was data Wrangling project. Data wrangling, which consisted of:
 * Gathering data
 * Assessing data
 * Cleaning data
